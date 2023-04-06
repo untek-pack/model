@@ -20,6 +20,6 @@
     "untek-model/repository": "0.1.x-dev",
     "untek-model/service": "0.1.x-dev",
     "untek-model/shared": "0.1.x-dev",
-    "untek-model/validator": "0.x-dev"
+    "untek-model/validator": "0.1.x-dev"
   }
 }
