@@ -21,5 +21,11 @@
     "untek-model/service": "0.1.x-dev",
     "untek-model/shared": "0.1.x-dev",
     "untek-model/validator": "0.1.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Untek\\Pack\\Model\\": "src",
+      "Untek\\Pack\\Model\\Tests\\": "tests"
+    }
   }
 }
